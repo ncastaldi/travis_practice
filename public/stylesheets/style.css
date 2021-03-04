@@ -1,0 +1,10 @@
+form.signup,
+form.login {
+  margin-top: 50px;
+}
+
+.myBtnGrp {
+  padding: 1%;
+  background: darkgray;
+  color: white;
+}
